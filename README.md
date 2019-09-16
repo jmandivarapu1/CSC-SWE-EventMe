@@ -1,7 +1,7 @@
 # EventMe
 EventMe Project for Software Engineering
 
-Team Members :
+**Team Members :**
 
 1. Jaya Krishna Mandivarapu
 2. Kiruthiga Sekar
